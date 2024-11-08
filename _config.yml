@@ -7,3 +7,5 @@ header_pages:
   - bio.md
   - research.md
   - cv.md
+sass:
+  style: compressed
