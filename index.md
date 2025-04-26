@@ -20,7 +20,7 @@ title:
 
 ---
 
-Welcome to my academic website. I am a predoctoral research fellow at [Opportunity Insights](https://opportunityinsights.org/) at Harvard University, collaborating with Professors Raj Chetty, Isaiah Andrews, Susan Athey, and Guido Imbens. My research interests include econometrics, applied econometrics, and causal inference.
+Welcome! I am currently a predoctoral research fellow at [Opportunity Insights](https://opportunityinsights.org/) at Harvard University, working with Professors Raj Chetty, Isaiah Andrews, Susan Athey, and Guido Imbens. My research interests include econometric theory, applied econometrics, and machine learning.
 
 In Fall 2025, I will begin the Ph.D. program in Economics at Harvard University. I received my B.A. in Economics from the University of Tokyo, where I was advised by Professor Hidehiko Ichimura.
 
