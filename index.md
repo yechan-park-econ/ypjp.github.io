@@ -18,7 +18,7 @@ hide_title: true
       <strong>Yechan Park</strong><br>
       Predoctoral at Opp Insights<br>
       <a href="mailto:yechanpark@fas.harvard.edu" style="display: block; margin-top: 5px;">Email</a>
-      <a href="https://x.com/crossroadtoday" target="_blank" style="display: block; margin-top: 5px;">Twitter</a>
+      <a href="https://x.com/yechanparkjp" target="_blank" style="display: block; margin-top: 5px;">Twitter</a>
     </div>
   </div>
 
