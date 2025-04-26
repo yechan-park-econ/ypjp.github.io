@@ -1,9 +1,8 @@
 ---
-layout: home
-title: Home
+layout: default
+title: Yechan Park
 ---
 
-# Yechan Park
 
 <!-- Profile Picture -->
 ![Yechan Park](/assets/img/Yechan_Park_Portrait.jpg){: style="border-radius: 10px; width: 200px; margin: 0 auto; display: block;"}
