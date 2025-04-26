@@ -2,6 +2,8 @@
 layout: default
 title: Yechan Park
 ---
+<!-- Import Font Awesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" integrity="sha512-papw7B7T2vluX56OQ6aH3t9fP9zLpP+fDYf34CTkC0DdCUfTTpRQ+OlxB1DYIkQkdrYQzElzVqOm2VoW3zmk4w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 
 <!-- Profile Picture -->
