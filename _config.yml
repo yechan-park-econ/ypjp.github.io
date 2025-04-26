@@ -4,7 +4,6 @@ email: "yechanpark@fas.harvard.edu"
 theme: minima
 header_pages:
   - index.md
-  - bio.md
   - research.md
   - cv.md
 sass:
