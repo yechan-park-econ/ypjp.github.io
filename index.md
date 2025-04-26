@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: 
 ---
 
 # Yechan Park
@@ -16,9 +16,6 @@ title: Home
   <a href="https://github.com/yourgithubusername" target="_blank" style="margin: 0 10px;">
     <i class="fab fa-github fa-2x"></i>
   </a>
-  <a href="cv.md" style="margin: 0 10px;">
-    <i class="fas fa-graduation-cap fa-2x"></i>
-  </a>
 </p>
 
 ---
@@ -27,4 +24,4 @@ Welcome to my academic website. I am a predoctoral research fellow at [Opportuni
 
 In Fall 2025, I will begin the Ph.D. program in Economics at Harvard University. I received my B.A. in Economics from the University of Tokyo, where I was advised by Professor Hidehiko Ichimura.
 
-Feel free to reach out at yechanpark@fas.harvard.edu 
+Feel free to reach out anytime at [yechanpark@fas.harvard.edu](mailto:yechanpark@fas.harvard.edu)
