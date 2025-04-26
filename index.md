@@ -12,13 +12,13 @@ hide_title: true
 
   <!-- Left: Portrait and Contact -->
   <div style="flex: 0 0 200px; text-align: center; margin-right: 30px;">
-    <img src="/assets/img/Yechan_Park_Portrait.jpg" alt="Yechan Park" style="border-radius: 10px; width: 180px; height: auto; margin-bottom: 10px;">
+    <img src="/assets/img/Yechan Park_Portrait.jpg" alt="Yechan Park" style="border-radius: 10px; width: 180px; height: auto; margin-bottom: 10px;">
     
     <div style="margin-top: 10px;">
       <strong>Yechan Park</strong><br>
-      Predoctoral Fellow in Economics<br>
+      Predoctoral at Opp Insights<br>
       <a href="mailto:yechanpark@fas.harvard.edu" style="display: block; margin-top: 5px;">Email</a>
-      <a href="https://github.com/yourgithubusername" target="_blank" style="display: block; margin-top: 5px;">GitHub</a>
+      <a href="https://x.com/crossroadtoday" target="_blank" style="display: block; margin-top: 5px;">Twitter</a>
     </div>
   </div>
 
