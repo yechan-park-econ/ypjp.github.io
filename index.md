@@ -6,7 +6,7 @@ title: Home
 # Yechan Park
 
 <!-- Profile Picture -->
-![Yechan Park](Yechan_Park_Portrait.jpg){: style="border-radius: 10px; width: 200px; margin: 0 auto; display: block;"}
+![Yechan Park](/assets/img/Yechan_Park_Portrait.jpg){: style="border-radius: 10px; width: 200px; margin: 0 auto; display: block;"}
 
 <!-- Icon Links -->
 <p style="text-align: center; margin-top: 10px;">
