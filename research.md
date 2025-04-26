@@ -34,7 +34,7 @@ permalink: /research/
   [Link](https://arxiv.org/abs/2304.04170)
 
 - **Beyond Central Limit Theorem for Higher Order Inference in Batched Bandits**  
-  Yechan Park, Nakahiro Yoshida, and Runzhe Zhan, 2022.  
+  Yechan Park, Nakahiro Yoshida, and Ruohan Zhan, 2022.  
   *Neural Information Processing Systems 2022, Causal Machine Learning for Real-World Impact Workshop*.  
   [Link](https://openreview.net/pdf?id=FuN85V24J7V)
 
