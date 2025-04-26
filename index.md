@@ -16,7 +16,7 @@ hide_title: true
     
     <div style="margin-top: 10px;">
       <strong>Yechan Park</strong><br>
-      Predoctoral at Opp Insights<br>
+      Predoc at Opp Insights<br>
       <a href="mailto:yechanpark@fas.harvard.edu" style="display: block; margin-top: 5px;">Email</a>
       <a href="https://x.com/yechanparkjp" target="_blank" style="display: block; margin-top: 5px;">Twitter</a>
     </div>
