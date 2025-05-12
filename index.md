@@ -26,7 +26,7 @@ hide_title: true
   <div style="flex: 1;">
     <p>Welcome! I am currently a predoctoral research fellow at <a href="https://opportunityinsights.org/">Opportunity Insights</a> at Harvard University, working with Professors Raj Chetty, Isaiah Andrews, Susan Athey, and Guido Imbens. My research interests include econometric theory, applied econometrics, and machine learning.</p>
 
-    <p>In Fall 2025, I will begin the Ph.D. program in Economics at Harvard University. I received my B.A. in Economics from the University of Tokyo, where I was advised by Professor Hidehiko Ichimura.</p>
+    <p>In Fall 2025, I will begin a Ph.D. in Economics at Harvard University. I received my B.A. in Economics from the University of Tokyo, where I was advised by Professor Hidehiko Ichimura.</p>
 
     <p>Feel free to reach out anytime at <a href="mailto:yechanpark@fas.harvard.edu">yechanpark@fas.harvard.edu</a>.</p>
   </div>
